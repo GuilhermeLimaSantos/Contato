@@ -21,6 +21,14 @@ input {
     border-radius: 10px;
 }
 
+textared {
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
 button {
     background-color: aqua;
     color: black;
